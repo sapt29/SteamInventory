@@ -1,0 +1,1054 @@
+[
+    {
+        "markethashname": "Fracture Case",
+        "slug": "fracture-case",
+        "count": 1,
+        "marketname": "Fracture Case",
+        "id": "b6a6b033-3161-493d-aaf6-d09322048b4c",
+        "assetid": "34521062621",
+        "classid": "3946324730",
+        "groupid": "ed86ee12052cbd51480a413b72645fd0",
+        "instanceid": "0",
+        "nameid": 176185874,
+        "hashid": "c4cd8d431770c8af87a9e810e9896325",
+        "itemgroup": "container",
+        "itemname": "fracture case",
+        "itemtype": "the fracture collection",
+        "pricelatest": 0.43,
+        "pricelatestsell": 0.43,
+        "pricemix": 0.43,
+        "pricemedian": 0.47,
+        "pricereal": 0.3,
+        "pricereal24h": 0.32,
+        "pricereal7d": 0.34,
+        "pricereal30d": 0.4,
+        "pricereal90d": null,
+        "pricesafe": 0.43,
+        "priceavg": 0.48,
+        "pricemin": 0.43,
+        "pricemax": 0.86,
+        "pricesafe24h": 0.48,
+        "pricesafe7d": 0.48,
+        "pricesafe30d": 0.54,
+        "pricesafe90d": 0.62,
+        "trendpoint": 25,
+        "offervolume": 514531,
+        "hourstosold": 1,
+        "sold24h": 103206,
+        "sold7d": 619859,
+        "sold30d": 3054764,
+        "sold90d": 13633264,
+        "buyorderprice": 0.42,
+        "buyordermedian": 0.4,
+        "buyorderavg": 0.38,
+        "buyordervolume": 6636783,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "base grade",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_WeaponCase",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Container"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_26",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Fracture Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Base Grade",
+                "color": "b0c3d9"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Container Series #307",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Contains one of the following:"
+            },
+            {
+                "type": "html",
+                "value": "Negev | Ultralight",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "P2000 | Gnarled",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "SG 553 | Ol' Rusty",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "SSG 08 | Mainframe 001",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "P250 | Cassette",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "P90 | Freight",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "PP-Bizon | Runic",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "MAG-7 | Monster Call",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "Tec-9 | Brother",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "MAC-10 | Allure",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "Galil AR | Connexion",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "MP5-SD | Kitbash",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "M4A4 | Tooth Fairy",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "Glock-18 | Vogue",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "XM1014 | Entombed",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "Desert Eagle | Printstream",
+                "color": "eb4b4b"
+            },
+            {
+                "type": "html",
+                "value": "AK-47 | Legion of Anubis",
+                "color": "eb4b4b"
+            },
+            {
+                "type": "html",
+                "value": "or an Exceedingly Rare Special Item!",
+                "color": "ffd700"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "",
+                "color": "00a000"
+            }
+        ],
+        "actions": null,
+        "createdat": {
+            "date": "2024-01-18 00:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "priceupdatedat": {
+            "date": "2024-01-18 02:18:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1596754807281",
+        "inspectlink": null,
+        "inspectlinkparsed": null,
+        "markettradablerestriction": 7,
+        "winloss": 30.23,
+        "wear": null,
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "markethashname": "MP9 | Sand Dashed (Field-Tested)",
+        "slug": "mp9-sand-dashed-field-tested",
+        "count": 1,
+        "marketname": "MP9 | Sand Dashed (Field-Tested)",
+        "id": "60a4f920-0e49-49f0-9814-9851f9a46c44",
+        "assetid": "21918324858",
+        "classid": "310776573",
+        "groupid": "a4e8738e8598b05d6377b009167e9310",
+        "instanceid": "302028390",
+        "nameid": 2383825,
+        "hashid": "74f500e269fe851dfa7d70f2f8216976",
+        "itemgroup": "smg",
+        "itemname": "sand dashed",
+        "itemtype": "mp9",
+        "pricelatest": 0.03,
+        "pricelatestsell": 0.03,
+        "pricemix": 0.03,
+        "pricemedian": 0.05,
+        "pricereal": 0.01,
+        "pricereal24h": 0.01,
+        "pricereal7d": 0.01,
+        "pricereal30d": 0.01,
+        "pricereal90d": null,
+        "pricesafe": 0,
+        "priceavg": 0.04,
+        "pricemin": 0.03,
+        "pricemax": 0.22,
+        "pricesafe24h": 0.03,
+        "pricesafe7d": 0.03,
+        "pricesafe30d": 0.03,
+        "pricesafe90d": 0.03,
+        "trendpoint": 15,
+        "offervolume": 74228,
+        "hourstosold": 1,
+        "sold24h": 2844,
+        "sold7d": 16104,
+        "sold30d": 67259,
+        "sold90d": 273671,
+        "buyorderprice": null,
+        "buyordermedian": null,
+        "buyorderavg": null,
+        "buyordervolume": null,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "consumer grade",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh9_9S5hpS0hPb6N4Tck29Y_cg_iOrH9Nyh2Fe2rkE-YW77cteUJ1U5MwnT_VW7xb3m15K5vsjPynM2sj5iuygzmcuY6g",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SMG",
+                "localized_category_name": "Type",
+                "localized_tag_name": "SMG"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_mp9",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "MP9"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_dust_2",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Dust 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Consumer Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been spray-painted using short pieces of tape as stencils."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Dust 2 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5632884672899901560",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-18 00:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "priceupdatedat": {
+            "date": "2024-01-17 22:51:01.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1385596806310",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198102792478A21918324858D5632884672899901560",
+        "inspectlinkparsed": {
+            "a": "21918324858",
+            "s": "76561198102792478",
+            "d": "632884672899901560"
+        },
+        "markettradablerestriction": 7,
+        "winloss": 66.67,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "markethashname": "Nova | Predator (Well-Worn)",
+        "slug": "nova-predator-well-worn",
+        "count": 1,
+        "marketname": "Nova | Predator (Well-Worn)",
+        "id": "b5ddfb0a-8ee8-4d8c-a1a1-f78b35a6019c",
+        "assetid": "23595537789",
+        "classid": "310780755",
+        "groupid": "51d0b731397b0b0dc4a8ffd3c672cfec",
+        "instanceid": "302028390",
+        "nameid": 2384560,
+        "hashid": "02278c3b0c65477f1004805d9bc6f306",
+        "itemgroup": "shotgun",
+        "itemname": "predator",
+        "itemtype": "nova",
+        "pricelatest": 0.03,
+        "pricelatestsell": 0.03,
+        "pricemix": 0.03,
+        "pricemedian": 0.05,
+        "pricereal": 0.01,
+        "pricereal24h": 0.01,
+        "pricereal7d": 0.01,
+        "pricereal30d": 0.01,
+        "pricereal90d": null,
+        "pricesafe": 0.01,
+        "priceavg": 0.04,
+        "pricemin": 0.03,
+        "pricemax": 0.71,
+        "pricesafe24h": 0.03,
+        "pricesafe7d": 0.03,
+        "pricesafe30d": 0.03,
+        "pricesafe90d": 0.03,
+        "trendpoint": 15,
+        "offervolume": 9445,
+        "hourstosold": 1,
+        "sold24h": 424,
+        "sold7d": 2663,
+        "sold30d": 11348,
+        "sold90d": 51736,
+        "buyorderprice": null,
+        "buyordermedian": null,
+        "buyorderavg": null,
+        "buyordervolume": null,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "consumer grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JraflG0E7cEo2bCZ8Nmj2AK1-xE-YmmlIYSVdw85YlzQ8we4l73v1sXovoOJlyV9l0gMjQ",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Shotgun",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Shotgun"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_nova",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Nova"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_dust_2",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Dust 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Consumer Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory3",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Well-Worn"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Well-Worn"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been spray-painted in a zebra stripe pattern."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Dust 2 Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D751015268753655455",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-18 00:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "priceupdatedat": {
+            "date": "2024-01-17 20:47:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1385596809420",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198102792478A23595537789D751015268753655455",
+        "inspectlinkparsed": {
+            "a": "23595537789",
+            "s": "76561198102792478",
+            "d": "51015268753655455"
+        },
+        "markettradablerestriction": 7,
+        "winloss": 66.67,
+        "wear": "ww",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "markethashname": "Prisma 2 Case",
+        "slug": "prisma-2-case",
+        "count": 1,
+        "marketname": "Prisma 2 Case",
+        "id": "5da5ded2-67af-41b0-9f74-9f9188f69da0",
+        "assetid": "21918541319",
+        "classid": "3761545285",
+        "groupid": "56679a044f993d5931244a7280504e50",
+        "instanceid": "0",
+        "nameid": 176118270,
+        "hashid": "310ebd290ed7ecdf6e5aba9f87b374ae",
+        "itemgroup": "container",
+        "itemname": "prisma 2 case",
+        "itemtype": "the prisma 2 collection",
+        "pricelatest": 0.84,
+        "pricelatestsell": 0.84,
+        "pricemix": 0.84,
+        "pricemedian": 0.86,
+        "pricereal": 0.58,
+        "pricereal24h": 0.6,
+        "pricereal7d": 0.61,
+        "pricereal30d": 0.52,
+        "pricereal90d": null,
+        "pricesafe": 0.83,
+        "priceavg": 0.86,
+        "pricemin": 0.79,
+        "pricemax": 1.14,
+        "pricesafe24h": 0.87,
+        "pricesafe7d": 0.87,
+        "pricesafe30d": 0.89,
+        "pricesafe90d": 0.93,
+        "trendpoint": 15,
+        "offervolume": 134584,
+        "hourstosold": 1,
+        "sold24h": 12842,
+        "sold7d": 94923,
+        "sold30d": 642089,
+        "sold90d": 3673355,
+        "buyorderprice": 0.83,
+        "buyordermedian": 0.8,
+        "buyorderavg": 0.78,
+        "buyordervolume": 6578888,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "base grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_WeaponCase",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Container"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_community_25",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Prisma 2 Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Base Grade",
+                "color": "b0c3d9"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Container Series #303",
+                "color": "99ccff"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "Contains one of the following:"
+            },
+            {
+                "type": "html",
+                "value": "AUG | Tom Cat",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "AWP | Capillary",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "CZ75-Auto | Distressed",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "Desert Eagle | Blue Ply",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "MP5-SD | Desert Strike",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "Negev | Prototype",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "R8 Revolver | Bone Forged",
+                "color": "4b69ff"
+            },
+            {
+                "type": "html",
+                "value": "P2000 | Acid Etched",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "Sawed-Off | Apocalypto",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "SCAR-20 | Enforcer",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "SG 553 | Darkwing",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "SSG 08 | Fever Dream",
+                "color": "8847ff"
+            },
+            {
+                "type": "html",
+                "value": "AK-47 | Phantom Disruptor",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "MAC-10 | Disco Tech",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "MAG-7 | Justice",
+                "color": "d32ce6"
+            },
+            {
+                "type": "html",
+                "value": "M4A1-S | Player Two",
+                "color": "eb4b4b"
+            },
+            {
+                "type": "html",
+                "value": "Glock-18 | Bullet Queen",
+                "color": "eb4b4b"
+            },
+            {
+                "type": "html",
+                "value": "or an Exceedingly Rare Special Item!",
+                "color": "ffd700"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "",
+                "color": "00a000"
+            }
+        ],
+        "actions": null,
+        "createdat": {
+            "date": "2024-01-18 00:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "priceupdatedat": {
+            "date": "2024-01-18 01:13:02.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1585609204605",
+        "inspectlink": null,
+        "inspectlinkparsed": null,
+        "markettradablerestriction": 7,
+        "winloss": 30.95,
+        "wear": null,
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "markethashname": "Tec-9 | Groundwater (Field-Tested)",
+        "slug": "tec-9-groundwater-field-tested",
+        "count": 1,
+        "marketname": "Tec-9 | Groundwater (Field-Tested)",
+        "id": "ec0157ac-1abd-4b94-89e6-960f790dd091",
+        "assetid": "14981742533",
+        "classid": "310777271",
+        "groupid": "e83ec870a91ff6f4c936932b618ba3bf",
+        "instanceid": "302028390",
+        "nameid": 2383742,
+        "hashid": "b8ed46fe9e3413fbdf40258f956b8f5b",
+        "itemgroup": "pistol",
+        "itemname": "groundwater",
+        "itemtype": "tec-9",
+        "pricelatest": 0.03,
+        "pricelatestsell": 0.03,
+        "pricemix": 0.03,
+        "pricemedian": 0.05,
+        "pricereal": 0.01,
+        "pricereal24h": 0.01,
+        "pricereal7d": 0.01,
+        "pricereal30d": 0.01,
+        "pricereal90d": null,
+        "pricesafe": 0,
+        "priceavg": 0.04,
+        "pricemin": 0.03,
+        "pricemax": 0.03,
+        "pricesafe24h": 0.03,
+        "pricesafe7d": 0.03,
+        "pricesafe30d": 0.03,
+        "pricesafe90d": 0.03,
+        "trendpoint": 15,
+        "offervolume": 84860,
+        "hourstosold": 1,
+        "sold24h": 1439,
+        "sold7d": 19955,
+        "sold30d": 109828,
+        "sold90d": 343688,
+        "buyorderprice": null,
+        "buyordermedian": null,
+        "buyorderavg": null,
+        "buyordervolume": null,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "b0c3d9",
+        "quality": "normal",
+        "rarity": "consumer grade",
+        "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvq6Mr3TxzxSv50pibiSrdX0ilWy-0ZrYDuldYbHdwJoZA3X-FK5kum804j84so8qtg9ew",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_tec9",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "Tec-9"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_italy",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Italy Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Consumer Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has individual parts spray-painted solid colors in an olive drab color scheme."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Italy Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7531857400715646232",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-18 00:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "priceupdatedat": {
+            "date": "2024-01-17 21:05:07.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1385596801734",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198102792478A14981742533D7531857400715646232",
+        "inspectlinkparsed": {
+            "a": "14981742533",
+            "s": "76561198102792478",
+            "d": "531857400715646232"
+        },
+        "markettradablerestriction": 7,
+        "winloss": 66.67,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    },
+    {
+        "markethashname": "USP-S | Forest Leaves (Field-Tested)",
+        "slug": "usp-s-forest-leaves-field-tested",
+        "count": 1,
+        "marketname": "USP-S | Forest Leaves (Field-Tested)",
+        "id": "a81f830f-d9bb-4bd9-9e83-63f31f5cf63d",
+        "assetid": "23872707324",
+        "classid": "310777035",
+        "groupid": "2849f7175f72d9684eeb4dc1463a3d66",
+        "instanceid": "302028390",
+        "nameid": 2384373,
+        "hashid": "b6c81f14a7da335dd7d4e23502ef8993",
+        "itemgroup": "pistol",
+        "itemname": "forest leaves",
+        "itemtype": "usp-s",
+        "pricelatest": 0.08,
+        "pricelatestsell": 0.06,
+        "pricemix": 0.06,
+        "pricemedian": 0.1,
+        "pricereal": 0.03,
+        "pricereal24h": 0.04,
+        "pricereal7d": 0.04,
+        "pricereal30d": 0.04,
+        "pricereal90d": null,
+        "pricesafe": 0.07,
+        "priceavg": 0.1,
+        "pricemin": 0.06,
+        "pricemax": 0.14,
+        "pricesafe24h": 0.06,
+        "pricesafe7d": 0.06,
+        "pricesafe30d": 0.06,
+        "pricesafe90d": 0.09,
+        "trendpoint": 45,
+        "offervolume": 10490,
+        "hourstosold": 1,
+        "sold24h": 946,
+        "sold7d": 8509,
+        "sold30d": 43735,
+        "sold90d": 176840,
+        "buyorderprice": 0.07,
+        "buyordermedian": 0.05,
+        "buyorderavg": 0.05,
+        "buyordervolume": 189310,
+        "nametag": null,
+        "bordercolor": "D2D2D2",
+        "color": "5e98d9",
+        "quality": "normal",
+        "rarity": "industrial grade",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yOluHxIITck29Y_cg_373Fpo7z0QW18hBsY2_yJdKcIwZoaFnYqFXtw-juhcLtuJXNzSNhsj5iuyhKbQ0iow",
+        "marketable": true,
+        "tradable": true,
+        "unstable": false,
+        "unstablereason": null,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Pistol",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Pistol"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_usp_silencer",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "USP-S"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_safehouse",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The Safehouse Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Uncommon_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Industrial Grade",
+                "color": "5e98d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory2",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Field-Tested"
+            }
+        ],
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Field-Tested"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been spray-painted using leaves as stencils."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The Safehouse Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "actions": [
+            {
+                "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9848954855766709153",
+                "name": "Inspect in Game..."
+            }
+        ],
+        "createdat": {
+            "date": "2024-01-18 00:44:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "priceupdatedat": {
+            "date": "2024-01-17 22:18:02.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "firstseentime": "1385596801064",
+        "inspectlink": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198102792478A23872707324D9848954855766709153",
+        "inspectlinkparsed": {
+            "a": "23872707324",
+            "s": "76561198102792478",
+            "d": "848954855766709153"
+        },
+        "markettradablerestriction": 7,
+        "winloss": 50,
+        "wear": "ft",
+        "isstar": false,
+        "isstattrak": false,
+        "pricelatestsell24h": null,
+        "pricelatestsell7d": null,
+        "pricelatestsell30d": null,
+        "pricelatestsell90d": null
+    }
+]

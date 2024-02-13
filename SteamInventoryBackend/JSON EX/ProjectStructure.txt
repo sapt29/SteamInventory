@@ -1,0 +1,18 @@
+How do I imagine the project structure
+
+
+Folders or Layers
+
+API -> Will have the controller and models of DTOs
+Domain -> Will have domain models and "mainService" that will do all the logic with the domain objects such as connect to different steamWebApi endpoints or call the respository layer to get data.
+Also will extract the data required from those endpoints and will implement recommendation algorithm. So will create the "response" domain model object.
+Repo -> Will connect to the database and query or save/update data.
+Tests -> will do the project tests.
+
+FOR AUTOMATED TESTS -> check
+CHECK HOW TO USE SWAGGER DOC 
+Try to create empty endpoint (get) with the clientId and use its validations 
+After that, check how to create models and layers on python & also how to call an external API and use its data
+Once completed that, should check how to interact with DynamoDb
+
+

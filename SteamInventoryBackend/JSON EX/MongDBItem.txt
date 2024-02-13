@@ -1,0 +1,13 @@
+MongoDBItem
+
+{ItemHashName
+Id
+Image
+History[
+Date
+avg
+median
+ItemsSold
+LastPrice
+]
+}

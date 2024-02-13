@@ -1,0 +1,41 @@
+76561198102792478 (mine)
+
+
+76561199118492237 (works)
+
+76561198192896810 (works) (Good example to cases)
+
+76561198315154783 (works, last some minutes)
+
+
+https://steamcommunity.com/profiles/76561198102792478/
+
+
+150 items aprox -> 20 mins
+
+
+Dreams & Nightmares Case
+
+StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance
+
+ // TEST THIS
+ private async Task<IEnumerable<UserInventoryItemsSteamResponse>> GetUserInventoryItemsSteamTEST(string userId)
+ {
+     try
+     {
+         var endpoint = "/steam/api/inventory";
+         var response = client.GetFromJsonAsAsyncEnumerable<UserInventoryItemsSteamResponse>($"{endpoint}?key={_steamConfiguration.ApiKey}&steam_id={userId}");
+         return (IEnumerable<UserInventoryItemsSteamResponse>)response;
+         //if (!response.IsSuccessStatusCode)
+         //{
+         //    return null;
+         //}
+
+         //var getResponse = JsonSerializer.Deserialize<UserInventoryItemsSteamResponse[]>(response.Content.ReadAsStringAsync().Result, jsonSerializerOptions);
+         //return getResponse;
+     }
+     catch
+     {
+         throw;
+     }
+ }

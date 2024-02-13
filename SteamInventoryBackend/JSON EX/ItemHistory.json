@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 217749294,
+        "avg": 2.48,
+        "median": 2.48,
+        "price": 2.57,
+        "sold": 389,
+        "ismonthly": false,
+        "createdat": "2024-01-15T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749293,
+        "avg": 2.44,
+        "median": 2.51,
+        "price": 2.52,
+        "sold": 681,
+        "ismonthly": false,
+        "createdat": "2024-01-14T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749292,
+        "avg": 2.43,
+        "median": 2.45,
+        "price": 2.55,
+        "sold": 722,
+        "ismonthly": false,
+        "createdat": "2024-01-13T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749291,
+        "avg": 2.46,
+        "median": 2.47,
+        "price": 2.49,
+        "sold": 606,
+        "ismonthly": false,
+        "createdat": "2024-01-12T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749290,
+        "avg": 2.43,
+        "median": 2.43,
+        "price": 2.45,
+        "sold": 608,
+        "ismonthly": false,
+        "createdat": "2024-01-11T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749289,
+        "avg": 2.43,
+        "median": 2.4,
+        "price": 2.5,
+        "sold": 698,
+        "ismonthly": false,
+        "createdat": "2024-01-10T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749288,
+        "avg": 2.47,
+        "median": 2.46,
+        "price": 2.5,
+        "sold": 595,
+        "ismonthly": false,
+        "createdat": "2024-01-09T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749287,
+        "avg": 2.5,
+        "median": 2.5,
+        "price": 2.45,
+        "sold": 625,
+        "ismonthly": false,
+        "createdat": "2024-01-08T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749286,
+        "avg": 2.49,
+        "median": 2.51,
+        "price": 2.57,
+        "sold": 734,
+        "ismonthly": false,
+        "createdat": "2024-01-07T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749285,
+        "avg": 2.38,
+        "median": 2.51,
+        "price": 1.08,
+        "sold": 757,
+        "ismonthly": false,
+        "createdat": "2024-01-06T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749284,
+        "avg": 2.47,
+        "median": 2.45,
+        "price": 2.5,
+        "sold": 700,
+        "ismonthly": false,
+        "createdat": "2024-01-05T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749283,
+        "avg": 2.33,
+        "median": 2.36,
+        "price": 2.38,
+        "sold": 796,
+        "ismonthly": false,
+        "createdat": "2024-01-04T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749282,
+        "avg": 2.39,
+        "median": 2.38,
+        "price": 2.32,
+        "sold": 833,
+        "ismonthly": false,
+        "createdat": "2024-01-03T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749281,
+        "avg": 2.38,
+        "median": 2.37,
+        "price": 2.35,
+        "sold": 800,
+        "ismonthly": false,
+        "createdat": "2024-01-02T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749280,
+        "avg": 2.24,
+        "median": 2.35,
+        "price": 2.32,
+        "sold": 742,
+        "ismonthly": false,
+        "createdat": "2024-01-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749279,
+        "avg": 2.34,
+        "median": 2.34,
+        "price": 2.32,
+        "sold": 731,
+        "ismonthly": false,
+        "createdat": "2023-12-31T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749278,
+        "avg": 2.31,
+        "median": 2.29,
+        "price": 2.27,
+        "sold": 854,
+        "ismonthly": false,
+        "createdat": "2023-12-30T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749277,
+        "avg": 2.33,
+        "median": 2.32,
+        "price": 2.32,
+        "sold": 830,
+        "ismonthly": false,
+        "createdat": "2023-12-29T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749276,
+        "avg": 2.28,
+        "median": 2.29,
+        "price": 2.27,
+        "sold": 797,
+        "ismonthly": false,
+        "createdat": "2023-12-28T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749275,
+        "avg": 2.28,
+        "median": 2.29,
+        "price": 2.25,
+        "sold": 877,
+        "ismonthly": false,
+        "createdat": "2023-12-27T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749274,
+        "avg": 2.28,
+        "median": 2.3,
+        "price": 2.24,
+        "sold": 832,
+        "ismonthly": false,
+        "createdat": "2023-12-26T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749273,
+        "avg": 2.29,
+        "median": 2.31,
+        "price": 2.31,
+        "sold": 861,
+        "ismonthly": false,
+        "createdat": "2023-12-25T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749272,
+        "avg": 2.3,
+        "median": 2.3,
+        "price": 2.29,
+        "sold": 791,
+        "ismonthly": false,
+        "createdat": "2023-12-24T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749271,
+        "avg": 2.3,
+        "median": 2.31,
+        "price": 2.31,
+        "sold": 915,
+        "ismonthly": false,
+        "createdat": "2023-12-23T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749270,
+        "avg": 2.33,
+        "median": 2.33,
+        "price": 2.34,
+        "sold": 915,
+        "ismonthly": false,
+        "createdat": "2023-12-22T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749269,
+        "avg": 2.41,
+        "median": 2.42,
+        "price": 2.35,
+        "sold": 761,
+        "ismonthly": false,
+        "createdat": "2023-12-21T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749268,
+        "avg": 2.35,
+        "median": 2.48,
+        "price": 2.39,
+        "sold": 661,
+        "ismonthly": false,
+        "createdat": "2023-12-20T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749267,
+        "avg": 2.48,
+        "median": 2.47,
+        "price": 2.4,
+        "sold": 564,
+        "ismonthly": false,
+        "createdat": "2023-12-19T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749266,
+        "avg": 2.47,
+        "median": 2.48,
+        "price": 2.44,
+        "sold": 617,
+        "ismonthly": false,
+        "createdat": "2023-12-18T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749265,
+        "avg": 2.5,
+        "median": 2.49,
+        "price": 2.5,
+        "sold": 687,
+        "ismonthly": false,
+        "createdat": "2023-12-17T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749264,
+        "avg": 2.52,
+        "median": 2.52,
+        "price": 2.51,
+        "sold": 734,
+        "ismonthly": false,
+        "createdat": "2023-12-16T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749263,
+        "avg": 2.53,
+        "median": 2.53,
+        "price": 2.6,
+        "sold": 753,
+        "ismonthly": false,
+        "createdat": "2023-12-15T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749262,
+        "avg": 2.5,
+        "median": 2.5,
+        "price": 2.5,
+        "sold": 688,
+        "ismonthly": false,
+        "createdat": "2023-12-14T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749261,
+        "avg": 2.59,
+        "median": 2.59,
+        "price": 2.59,
+        "sold": 700,
+        "ismonthly": false,
+        "createdat": "2023-12-13T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749260,
+        "avg": 2.59,
+        "median": 2.59,
+        "price": 2.59,
+        "sold": 555,
+        "ismonthly": false,
+        "createdat": "2023-12-12T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749259,
+        "avg": 2.54,
+        "median": 2.54,
+        "price": 2.54,
+        "sold": 607,
+        "ismonthly": false,
+        "createdat": "2023-12-11T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749258,
+        "avg": 2.62,
+        "median": 2.62,
+        "price": 2.62,
+        "sold": 737,
+        "ismonthly": false,
+        "createdat": "2023-12-10T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749257,
+        "avg": 2.6,
+        "median": 2.6,
+        "price": 2.6,
+        "sold": 795,
+        "ismonthly": false,
+        "createdat": "2023-12-09T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749256,
+        "avg": 2.66,
+        "median": 2.66,
+        "price": 2.66,
+        "sold": 782,
+        "ismonthly": false,
+        "createdat": "2023-12-08T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749255,
+        "avg": 2.73,
+        "median": 2.73,
+        "price": 2.73,
+        "sold": 633,
+        "ismonthly": false,
+        "createdat": "2023-12-07T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749254,
+        "avg": 2.76,
+        "median": 2.76,
+        "price": 2.76,
+        "sold": 705,
+        "ismonthly": false,
+        "createdat": "2023-12-06T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749253,
+        "avg": 2.76,
+        "median": 2.76,
+        "price": 2.76,
+        "sold": 645,
+        "ismonthly": false,
+        "createdat": "2023-12-05T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749252,
+        "avg": 2.5,
+        "median": 2.5,
+        "price": 2.5,
+        "sold": 691,
+        "ismonthly": false,
+        "createdat": "2023-12-04T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749251,
+        "avg": 2.73,
+        "median": 2.73,
+        "price": 2.73,
+        "sold": 801,
+        "ismonthly": false,
+        "createdat": "2023-12-03T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749250,
+        "avg": 2.72,
+        "median": 2.72,
+        "price": 2.72,
+        "sold": 878,
+        "ismonthly": false,
+        "createdat": "2023-12-02T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749249,
+        "avg": 2.57,
+        "median": 2.57,
+        "price": 2.57,
+        "sold": 815,
+        "ismonthly": false,
+        "createdat": "2023-12-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749248,
+        "avg": 2.56,
+        "median": 2.56,
+        "price": 2.56,
+        "sold": 745,
+        "ismonthly": false,
+        "createdat": "2023-11-30T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749247,
+        "avg": 2.5,
+        "median": 2.5,
+        "price": 2.5,
+        "sold": 758,
+        "ismonthly": false,
+        "createdat": "2023-11-29T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749246,
+        "avg": 2.41,
+        "median": 2.41,
+        "price": 2.41,
+        "sold": 977,
+        "ismonthly": false,
+        "createdat": "2023-11-28T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749245,
+        "avg": 2.35,
+        "median": 2.35,
+        "price": 2.35,
+        "sold": 955,
+        "ismonthly": false,
+        "createdat": "2023-11-27T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749244,
+        "avg": 2.31,
+        "median": 2.31,
+        "price": 2.31,
+        "sold": 965,
+        "ismonthly": false,
+        "createdat": "2023-11-26T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749243,
+        "avg": 2.37,
+        "median": 2.37,
+        "price": 2.37,
+        "sold": 1061,
+        "ismonthly": false,
+        "createdat": "2023-11-25T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749242,
+        "avg": 2.42,
+        "median": 2.42,
+        "price": 2.42,
+        "sold": 983,
+        "ismonthly": false,
+        "createdat": "2023-11-24T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749241,
+        "avg": 2.42,
+        "median": 2.42,
+        "price": 2.42,
+        "sold": 1068,
+        "ismonthly": false,
+        "createdat": "2023-11-23T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749240,
+        "avg": 2.43,
+        "median": 2.43,
+        "price": 2.43,
+        "sold": 1172,
+        "ismonthly": false,
+        "createdat": "2023-11-22T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749239,
+        "avg": 2.58,
+        "median": 2.58,
+        "price": 2.58,
+        "sold": 780,
+        "ismonthly": false,
+        "createdat": "2023-11-21T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749238,
+        "avg": 2.66,
+        "median": 2.66,
+        "price": 2.66,
+        "sold": 689,
+        "ismonthly": false,
+        "createdat": "2023-11-20T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749237,
+        "avg": 2.63,
+        "median": 2.63,
+        "price": 2.63,
+        "sold": 839,
+        "ismonthly": false,
+        "createdat": "2023-11-19T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749236,
+        "avg": 2.68,
+        "median": 2.68,
+        "price": 2.68,
+        "sold": 833,
+        "ismonthly": false,
+        "createdat": "2023-11-18T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749235,
+        "avg": 2.73,
+        "median": 2.73,
+        "price": 2.73,
+        "sold": 795,
+        "ismonthly": false,
+        "createdat": "2023-11-17T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749234,
+        "avg": 2.75,
+        "median": 2.75,
+        "price": 2.75,
+        "sold": 765,
+        "ismonthly": false,
+        "createdat": "2023-11-16T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749233,
+        "avg": 2.88,
+        "median": 2.88,
+        "price": 2.88,
+        "sold": 698,
+        "ismonthly": false,
+        "createdat": "2023-11-15T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749232,
+        "avg": 2.87,
+        "median": 2.87,
+        "price": 2.87,
+        "sold": 701,
+        "ismonthly": false,
+        "createdat": "2023-11-14T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749231,
+        "avg": 2.89,
+        "median": 2.89,
+        "price": 2.89,
+        "sold": 745,
+        "ismonthly": false,
+        "createdat": "2023-11-13T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749230,
+        "avg": 2.98,
+        "median": 2.98,
+        "price": 2.98,
+        "sold": 911,
+        "ismonthly": false,
+        "createdat": "2023-11-12T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749229,
+        "avg": 3.06,
+        "median": 3.06,
+        "price": 3.06,
+        "sold": 911,
+        "ismonthly": false,
+        "createdat": "2023-11-11T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749228,
+        "avg": 3.12,
+        "median": 3.12,
+        "price": 3.12,
+        "sold": 917,
+        "ismonthly": false,
+        "createdat": "2023-11-10T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749227,
+        "avg": 3.1,
+        "median": 3.1,
+        "price": 3.1,
+        "sold": 766,
+        "ismonthly": false,
+        "createdat": "2023-11-09T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749226,
+        "avg": 3.12,
+        "median": 3.12,
+        "price": 3.12,
+        "sold": 892,
+        "ismonthly": false,
+        "createdat": "2023-11-08T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749225,
+        "avg": 3.14,
+        "median": 3.14,
+        "price": 3.14,
+        "sold": 864,
+        "ismonthly": false,
+        "createdat": "2023-11-07T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749224,
+        "avg": 3.17,
+        "median": 3.17,
+        "price": 3.17,
+        "sold": 805,
+        "ismonthly": false,
+        "createdat": "2023-11-06T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749223,
+        "avg": 3.22,
+        "median": 3.22,
+        "price": 3.22,
+        "sold": 969,
+        "ismonthly": false,
+        "createdat": "2023-11-05T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749222,
+        "avg": 3.25,
+        "median": 3.25,
+        "price": 3.25,
+        "sold": 1012,
+        "ismonthly": false,
+        "createdat": "2023-11-04T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749221,
+        "avg": 3.16,
+        "median": 3.16,
+        "price": 3.16,
+        "sold": 985,
+        "ismonthly": false,
+        "createdat": "2023-11-03T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749220,
+        "avg": 3.11,
+        "median": 3.11,
+        "price": 3.11,
+        "sold": 1076,
+        "ismonthly": false,
+        "createdat": "2023-11-02T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749219,
+        "avg": 3.07,
+        "median": 3.07,
+        "price": 3.07,
+        "sold": 1094,
+        "ismonthly": false,
+        "createdat": "2023-11-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749218,
+        "avg": 3.04,
+        "median": 3.04,
+        "price": 3.04,
+        "sold": 1043,
+        "ismonthly": false,
+        "createdat": "2023-10-31T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749217,
+        "avg": 3.03,
+        "median": 3.03,
+        "price": 3.03,
+        "sold": 1051,
+        "ismonthly": false,
+        "createdat": "2023-10-30T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749216,
+        "avg": 3.05,
+        "median": 3.05,
+        "price": 3.05,
+        "sold": 1181,
+        "ismonthly": false,
+        "createdat": "2023-10-29T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749215,
+        "avg": 3.06,
+        "median": 3.06,
+        "price": 3.06,
+        "sold": 1243,
+        "ismonthly": false,
+        "createdat": "2023-10-28T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749214,
+        "avg": 3.19,
+        "median": 3.19,
+        "price": 3.19,
+        "sold": 1216,
+        "ismonthly": false,
+        "createdat": "2023-10-27T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749213,
+        "avg": 3.27,
+        "median": 3.27,
+        "price": 3.27,
+        "sold": 1166,
+        "ismonthly": false,
+        "createdat": "2023-10-26T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749212,
+        "avg": 3.37,
+        "median": 3.37,
+        "price": 3.37,
+        "sold": 1193,
+        "ismonthly": false,
+        "createdat": "2023-10-25T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749211,
+        "avg": 3.39,
+        "median": 3.39,
+        "price": 3.39,
+        "sold": 972,
+        "ismonthly": false,
+        "createdat": "2023-10-24T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749210,
+        "avg": 3.45,
+        "median": 3.45,
+        "price": 3.45,
+        "sold": 1068,
+        "ismonthly": false,
+        "createdat": "2023-10-23T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749209,
+        "avg": 3.55,
+        "median": 3.55,
+        "price": 3.55,
+        "sold": 1309,
+        "ismonthly": false,
+        "createdat": "2023-10-22T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749208,
+        "avg": 3.63,
+        "median": 3.63,
+        "price": 3.63,
+        "sold": 1227,
+        "ismonthly": false,
+        "createdat": "2023-10-21T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749207,
+        "avg": 3.64,
+        "median": 3.64,
+        "price": 3.64,
+        "sold": 1255,
+        "ismonthly": false,
+        "createdat": "2023-10-20T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749206,
+        "avg": 3.68,
+        "median": 3.68,
+        "price": 3.68,
+        "sold": 1134,
+        "ismonthly": false,
+        "createdat": "2023-10-19T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749205,
+        "avg": 3.71,
+        "median": 3.71,
+        "price": 3.71,
+        "sold": 1166,
+        "ismonthly": false,
+        "createdat": "2023-10-18T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749204,
+        "avg": 3.71,
+        "median": 3.71,
+        "price": 3.71,
+        "sold": 1058,
+        "ismonthly": false,
+        "createdat": "2023-10-17T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749203,
+        "avg": 3.69,
+        "median": 3.69,
+        "price": 3.69,
+        "sold": 1111,
+        "ismonthly": false,
+        "createdat": "2023-10-16T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749202,
+        "avg": 3.71,
+        "median": 3.71,
+        "price": 3.71,
+        "sold": 1441,
+        "ismonthly": false,
+        "createdat": "2023-10-15T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749201,
+        "avg": 3.63,
+        "median": 3.63,
+        "price": 3.63,
+        "sold": 1486,
+        "ismonthly": false,
+        "createdat": "2023-10-14T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749200,
+        "avg": 3.67,
+        "median": 3.67,
+        "price": 3.67,
+        "sold": 1461,
+        "ismonthly": false,
+        "createdat": "2023-10-13T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749199,
+        "avg": 3.57,
+        "median": 3.57,
+        "price": 3.57,
+        "sold": 1402,
+        "ismonthly": false,
+        "createdat": "2023-10-12T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749198,
+        "avg": 3.54,
+        "median": 3.54,
+        "price": 3.54,
+        "sold": 1259,
+        "ismonthly": false,
+        "createdat": "2023-10-11T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749197,
+        "avg": 3.65,
+        "median": 3.65,
+        "price": 3.65,
+        "sold": 1106,
+        "ismonthly": false,
+        "createdat": "2023-10-10T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749196,
+        "avg": 3.59,
+        "median": 3.59,
+        "price": 3.59,
+        "sold": 1288,
+        "ismonthly": false,
+        "createdat": "2023-10-09T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749195,
+        "avg": 3.6,
+        "median": 3.6,
+        "price": 3.6,
+        "sold": 1477,
+        "ismonthly": false,
+        "createdat": "2023-10-08T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749194,
+        "avg": 3.6,
+        "median": 3.6,
+        "price": 3.6,
+        "sold": 1450,
+        "ismonthly": false,
+        "createdat": "2023-10-07T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749193,
+        "avg": 3.56,
+        "median": 3.56,
+        "price": 3.56,
+        "sold": 1475,
+        "ismonthly": false,
+        "createdat": "2023-10-06T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749192,
+        "avg": 3.59,
+        "median": 3.59,
+        "price": 3.59,
+        "sold": 1452,
+        "ismonthly": false,
+        "createdat": "2023-10-05T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749191,
+        "avg": 3.57,
+        "median": 3.57,
+        "price": 3.57,
+        "sold": 1417,
+        "ismonthly": false,
+        "createdat": "2023-10-04T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749190,
+        "avg": 3.52,
+        "median": 3.52,
+        "price": 3.52,
+        "sold": 1415,
+        "ismonthly": false,
+        "createdat": "2023-10-03T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749189,
+        "avg": 3.63,
+        "median": 3.63,
+        "price": 3.63,
+        "sold": 1470,
+        "ismonthly": false,
+        "createdat": "2023-10-02T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749188,
+        "avg": 3.55,
+        "median": 3.55,
+        "price": 3.55,
+        "sold": 1773,
+        "ismonthly": false,
+        "createdat": "2023-10-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749187,
+        "avg": 2.99,
+        "median": 2.99,
+        "price": 3.39,
+        "sold": 36238,
+        "ismonthly": true,
+        "createdat": "2023-09-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749186,
+        "avg": 2.51,
+        "median": 2.51,
+        "price": 2.56,
+        "sold": 37323,
+        "ismonthly": true,
+        "createdat": "2023-08-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749185,
+        "avg": 2.56,
+        "median": 2.56,
+        "price": 2.56,
+        "sold": 39789,
+        "ismonthly": true,
+        "createdat": "2023-07-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749184,
+        "avg": 3.12,
+        "median": 3.12,
+        "price": 2.63,
+        "sold": 42521,
+        "ismonthly": true,
+        "createdat": "2023-06-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749183,
+        "avg": 3.41,
+        "median": 3.41,
+        "price": 3.23,
+        "sold": 48547,
+        "ismonthly": true,
+        "createdat": "2023-05-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749182,
+        "avg": 4.43,
+        "median": 4.43,
+        "price": 3.92,
+        "sold": 52169,
+        "ismonthly": true,
+        "createdat": "2023-04-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749181,
+        "avg": 3.93,
+        "median": 3.93,
+        "price": 4.28,
+        "sold": 44887,
+        "ismonthly": true,
+        "createdat": "2023-03-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749180,
+        "avg": 3.71,
+        "median": 3.71,
+        "price": 3.85,
+        "sold": 32346,
+        "ismonthly": true,
+        "createdat": "2023-02-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749179,
+        "avg": 3.36,
+        "median": 3.36,
+        "price": 3.44,
+        "sold": 27591,
+        "ismonthly": true,
+        "createdat": "2023-01-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749178,
+        "avg": 3.06,
+        "median": 3.06,
+        "price": 3.05,
+        "sold": 24926,
+        "ismonthly": true,
+        "createdat": "2022-12-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749177,
+        "avg": 3.09,
+        "median": 3.09,
+        "price": 2.92,
+        "sold": 22838,
+        "ismonthly": true,
+        "createdat": "2022-11-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749176,
+        "avg": 3.2,
+        "median": 3.2,
+        "price": 2.99,
+        "sold": 24300,
+        "ismonthly": true,
+        "createdat": "2022-10-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749175,
+        "avg": 3.14,
+        "median": 3.14,
+        "price": 3.06,
+        "sold": 24572,
+        "ismonthly": true,
+        "createdat": "2022-09-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749174,
+        "avg": 3.18,
+        "median": 3.18,
+        "price": 3.1,
+        "sold": 26556,
+        "ismonthly": true,
+        "createdat": "2022-08-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749173,
+        "avg": 3.02,
+        "median": 3.02,
+        "price": 3.19,
+        "sold": 27505,
+        "ismonthly": true,
+        "createdat": "2022-07-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749172,
+        "avg": 2.78,
+        "median": 2.78,
+        "price": 2.6,
+        "sold": 23723,
+        "ismonthly": true,
+        "createdat": "2022-06-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749171,
+        "avg": 2.95,
+        "median": 2.95,
+        "price": 2.95,
+        "sold": 24265,
+        "ismonthly": true,
+        "createdat": "2022-05-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749170,
+        "avg": 3.32,
+        "median": 3.32,
+        "price": 3.13,
+        "sold": 22800,
+        "ismonthly": true,
+        "createdat": "2022-04-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749169,
+        "avg": 3.03,
+        "median": 3.03,
+        "price": 3.19,
+        "sold": 28329,
+        "ismonthly": true,
+        "createdat": "2022-03-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749168,
+        "avg": 2.89,
+        "median": 2.89,
+        "price": 3.09,
+        "sold": 28940,
+        "ismonthly": true,
+        "createdat": "2022-02-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749167,
+        "avg": 2.53,
+        "median": 2.53,
+        "price": 2.59,
+        "sold": 34899,
+        "ismonthly": true,
+        "createdat": "2022-01-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749166,
+        "avg": 2.15,
+        "median": 2.15,
+        "price": 2.27,
+        "sold": 30451,
+        "ismonthly": true,
+        "createdat": "2021-12-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749165,
+        "avg": 2.02,
+        "median": 2.02,
+        "price": 1.84,
+        "sold": 31624,
+        "ismonthly": true,
+        "createdat": "2021-11-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749164,
+        "avg": 2.09,
+        "median": 2.09,
+        "price": 1.93,
+        "sold": 32794,
+        "ismonthly": true,
+        "createdat": "2021-10-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749163,
+        "avg": 2.13,
+        "median": 2.13,
+        "price": 1.9,
+        "sold": 33013,
+        "ismonthly": true,
+        "createdat": "2021-09-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749162,
+        "avg": 2.25,
+        "median": 2.25,
+        "price": 2.25,
+        "sold": 29868,
+        "ismonthly": true,
+        "createdat": "2021-08-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749161,
+        "avg": 2.22,
+        "median": 2.22,
+        "price": 2.27,
+        "sold": 31731,
+        "ismonthly": true,
+        "createdat": "2021-07-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749160,
+        "avg": 2.44,
+        "median": 2.44,
+        "price": 2.1,
+        "sold": 39291,
+        "ismonthly": true,
+        "createdat": "2021-06-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749159,
+        "avg": 2.73,
+        "median": 2.73,
+        "price": 2.6,
+        "sold": 50586,
+        "ismonthly": true,
+        "createdat": "2021-05-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749158,
+        "avg": 2.58,
+        "median": 2.58,
+        "price": 2.48,
+        "sold": 49151,
+        "ismonthly": true,
+        "createdat": "2021-04-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749157,
+        "avg": 2.98,
+        "median": 2.98,
+        "price": 2.86,
+        "sold": 54946,
+        "ismonthly": true,
+        "createdat": "2021-03-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749156,
+        "avg": 2.76,
+        "median": 2.76,
+        "price": 2.86,
+        "sold": 44779,
+        "ismonthly": true,
+        "createdat": "2021-02-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    },
+    {
+        "id": 217749155,
+        "avg": 2.97,
+        "median": 2.97,
+        "price": 2.77,
+        "sold": 51911,
+        "ismonthly": true,
+        "createdat": "2021-01-01T00:00:00+00:00",
+        "itemid": "96482731-dee4-46f6-9f98-58175135be9b"
+    }
+]
