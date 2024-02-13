@@ -29,7 +29,6 @@ public class SteamInventoryController : ControllerBase
         if (userSteamId.Length != 17)
         {
             _logger.LogError("Steam userId doesn't meet the requirements");
-            
             return BadRequest("Steam userId must be a 17 digit number");
         }
         if (!Regex.IsMatch(userSteamId, @"^\d+$"))
