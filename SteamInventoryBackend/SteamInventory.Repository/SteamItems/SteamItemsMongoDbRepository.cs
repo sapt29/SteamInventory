@@ -17,26 +17,20 @@ public class SteamItemsMongoDbRepository : ISteamItemsRepository
         _steamItemsCollection = mongoDatabase.GetCollection<SteamItemMongoDb>(mongoDbConfiguration.Value.CollectionName);
     }
 
-    public async Task<IEnumerable<SteamItem>> GetSteamItemsAsync()
-    {
-        var steamItemsMongoDb = await _steamItemsCollection.Find(filter => true).ToListAsync();
-        return steamItemsMongoDb.ConvertAll(i => i.ToSteamItem());
-    }
-
     public async Task<IEnumerable<SteamItem>> GetSteamItemsByIdsAsync(IEnumerable<string> itemIds)
     {
         var steamItemsMongoDb =  await _steamItemsCollection.AsQueryable().Where(x => itemIds.Contains(x.Id!)).ToListAsync();
         return steamItemsMongoDb.ConvertAll(i => i.ToSteamItem());
     }
 
-    public async Task AddSteamItem(SteamItem steamItem)
+    public async Task AddHistoryToExistingItem(string itemId, SteamItemHistory itemHistory)
     {
-        await _steamItemsCollection.InsertOneAsync(steamItem.ToSteamItemMongoDb());
+        await _steamItemsCollection.UpdateOneAsync(x => x.Id == itemId, Builders<SteamItemMongoDb>.Update.AddToSet(z => z.History, itemHistory.ToSteamItemHistoryMongoDb()));
     }
 
-    public async Task AddHistoryToExistingItem(string itemId, SteamItemHistory itemHistory)
-    {  
-        await _steamItemsCollection.UpdateOneAsync(x => x.Id == itemId, Builders<SteamItemMongoDb>.Update.AddToSet(z => z.History, itemHistory.ToSteamItemHistoryMongoDb()));
+    public async Task<IEnumerable<string>> GetSteamItemsIds()
+    {
+        return await _steamItemsCollection.AsQueryable().Select(doc => doc.Id!).ToListAsync();
     }
 
     public async Task AddMultipleSteamItems(List<SteamItem> steamItems)
@@ -44,8 +38,14 @@ public class SteamItemsMongoDbRepository : ISteamItemsRepository
         await _steamItemsCollection.InsertManyAsync(steamItems.ConvertAll(i => i.ToSteamItemMongoDb()));
     }
 
-    public async Task<IEnumerable<string>> GetSteamItemsIds()
+    public async Task AddSteamItem(SteamItem steamItem)
     {
-        return await _steamItemsCollection.AsQueryable().Select(doc => doc.Id!).ToListAsync();
+        await _steamItemsCollection.InsertOneAsync(steamItem.ToSteamItemMongoDb());
+    }
+
+    public async Task<IEnumerable<SteamItem>> GetSteamItemsAsync()
+    {
+        var steamItemsMongoDb = await _steamItemsCollection.Find(filter => true).ToListAsync();
+        return steamItemsMongoDb.ConvertAll(i => i.ToSteamItem());
     }
 }
