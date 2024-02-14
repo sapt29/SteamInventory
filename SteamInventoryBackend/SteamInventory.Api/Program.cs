@@ -22,6 +22,12 @@ builder.Services.AddTransient<ISteamItemsRepository, SteamItemsMongoDbRepository
 builder.Services.AddTransient<ISteamWebApi, SteamWebApi>();
 var app = builder.Build();
 
+app.UseCors(builder =>
+    builder.AllowAnyOrigin()
+           .AllowAnyMethod()
+           .AllowAnyHeader()
+);
+
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.UseSwagger();
