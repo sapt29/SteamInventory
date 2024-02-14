@@ -45,6 +45,9 @@ export const PopUp = ({ openPopUp, closePopUp, infoItem }) => {
     xaxis: {
       type: "datetime",
     },
+    dataLabels: {
+      enabled: false, // Disable data labels
+    },
   };
   return (
     <div
