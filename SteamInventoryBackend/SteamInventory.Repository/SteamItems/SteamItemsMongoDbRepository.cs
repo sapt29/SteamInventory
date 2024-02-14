@@ -25,9 +25,6 @@ public class SteamItemsMongoDbRepository : ISteamItemsRepository
 
     public async Task<IEnumerable<SteamItem>> GetSteamItemsByIdsAsync(IEnumerable<string> itemIds)
     {
-        // var filter = Builders<YourModel>.Filter.In(x => x.Id, itemIds);
-        //var results = await _steamItemsCollection.Find(filter).ToListAsync();
-
         var steamItemsMongoDb =  await _steamItemsCollection.AsQueryable().Where(x => itemIds.Contains(x.Id!)).ToListAsync();
         return steamItemsMongoDb.ConvertAll(i => i.ToSteamItem());
     }
