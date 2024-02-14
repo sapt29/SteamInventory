@@ -19,9 +19,9 @@ public class DataBaseUpdateService : IHostedService, IDisposable
     }
     public Task StartAsync(CancellationToken cancellationToken)
     {
-        // Calculate the time until the next 1 am
+        // Calculate the time until the next 2:30 am
         DateTime now = DateTime.Now;
-        DateTime nextRunTime = new DateTime(now.Year, now.Month, now.Day, 2, 50, 0);
+        DateTime nextRunTime = new DateTime(now.Year, now.Month, now.Day, 2, 30, 0);
         if (now > nextRunTime)
         {
             nextRunTime = nextRunTime.AddDays(1);
