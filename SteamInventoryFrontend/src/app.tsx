@@ -12,34 +12,32 @@ export function App() {
 
   const getInfoUser = async (e: any) => {
     e.preventDefault();
-    if (userIdRef && userIdRef.current) {
-      const userId = userIdRef.current.value;
-      console.log(userId);
-      // if (userId.length != 17) {
-      //   return toast.error("User id must contain 17 characters", {
-      //     position: "top-right",
-      //   });
-      // }
-      try {
+    
+    if (!userIdRef || !userIdRef.current) return;
 
-        const x = await fetch(`https://localhost:7155/inventory?userSteamId=${userId}`);
-        const a = await x.json();
-        console.log(a);
+    const userId = userIdRef.current.value;
 
-        //const res = await USER_INFO;
-        setInfoUser(a);
-      } catch (e) {
-        const ERRORS = {
-          404: "User not found",
-          500: "Server error, please try later",
-        };
-        toast.error("Usuario no encontrado", { position: "top-right" });
-        setInfoUser({});
+    try {
+      const x = await fetch(`https://localhost:7155/inventory?userSteamId=${userId}`);
+      if (!x.ok) {
+        let errorMessage = "Server error, please try later";
+        if (x.status === 400 || x.status === 500) {
+          const errorResponse = await x.text();
+          errorMessage = errorResponse || errorMessage;
+        }
+        throw new Error(errorMessage);
       }
-      userIdRef.current.value = "";
-      
+      const a = await x.json();
+      console.log(a);
+      //const res = await USER_INFO;
+      setInfoUser(a);
+    } catch (e) {
+      toast.error(e.message, { position: "top-right" });
+      setInfoUser({});
     }
-  };
+    
+    userIdRef.current.value = "";
+  }; 
 
   return (
     <main

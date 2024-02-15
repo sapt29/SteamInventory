@@ -1,12 +1,6 @@
 import ReactApexChart from "react-apexcharts";
 const generateChartData = (itemsHistory) => {
   return itemsHistory?.map((data) => {
-    const dateParts = data.datePrice.split("-");
-
-    // The month parameter in the Date constructor is zero-based, so subtract 1 from the month
-    const formattedDate = new Date(
-      `${dateParts[2]}-${dateParts[1]}-${dateParts[0]}`
-    );
     return {
       x: new Date(data.datePrice).getTime(),
       y: data.lastPrice,

@@ -39,6 +39,7 @@ public class SteamInventoryController : ControllerBase
         try
         {
             var result = await _mainService.GetUserInventoryByIdAsync(userSteamId);
+            _logger.LogInformation("Response generated for userSteamId: {userSteamId}", userSteamId);
             return Ok(TypeMapper.ToApi(result));
         }
         catch (HttpRequestException e)
