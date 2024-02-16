@@ -46,7 +46,7 @@ export function App() {
       }`}
     >
       <h1 class="mb-4 text-4xl font-extrabold text-center pt-5 leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-        Steam Profile
+        Steam Inventory
       </h1>      
       <Form userIdRef={userIdRef} searchUserInfo={getInfoUser} />
       <UserInfo {...infoUser} />

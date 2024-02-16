@@ -41,7 +41,7 @@ export const Form = ({ userIdRef, searchUserInfo }) => {
         </button>
       </div>
       <p className=" text-gray-200">
-        If you do not know how to find the Id, check this{" "}
+        If you do not know how to find the profile Id, check this{" "}
         <a
           href="https://help.steampowered.com/en/faqs/view/2816-BE67-5B69-0FEC"
           target="_blank"
