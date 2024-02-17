@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Logging;
 using SteamInventory.Helpers;
 using SteamInventory.Interfaces;
+using System.Diagnostics;
 
 namespace SteamInventory.BackgroundService;
 
@@ -35,6 +36,7 @@ public class DataBaseUpdateService : IHostedService, IDisposable
     }
     public async Task DailyUpdateDataBaseHistory()
     {
+        var logTimer = Stopwatch.StartNew();
         _logger.LogInformation("Starting Scheduled task (DatabaseUpdate)");
         var itemIds = await _steamItemsRepository.GetSteamItemsIds();
         var allSteamItems = await _steamWebApi.GetAllItemsSteam();
@@ -45,7 +47,7 @@ public class DataBaseUpdateService : IHostedService, IDisposable
                 await _steamItemsRepository.AddHistoryToExistingItem(item.Id, TypeMapper.ToDomain(item));
             }
         }
-        _logger.LogInformation("Finished Scheduled task (DatabaseUpdate)");
+        _logger.LogInformation("Finished Scheduled task (DatabaseUpdate) in {}ms", logTimer.ElapsedMilliseconds);
     }
 
     public Task StopAsync(CancellationToken cancellationToken)
