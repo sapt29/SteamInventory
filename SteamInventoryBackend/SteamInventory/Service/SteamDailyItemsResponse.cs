@@ -4,6 +4,6 @@ public class SteamDailyItemsResponse
 {
     public string Id { get; set; }
     public int? Sold24h { get; set; }
-    public double Pricelatestsell { get; set; }
-    public double Pricesafe24h { get; set; }
+    public double PriceLatestSell { get; set; }
+    public double PriceReal24h { get; set; }
 }

@@ -34,10 +34,10 @@ public static class TypeMapper
     {
        return new SteamItemHistory()
         {
-            Average = itemHistory.Pricesafe24h,
+            Average = itemHistory.PriceReal24h,
             Date = DateTime.UtcNow,
             ItemsSold = itemHistory?.Sold24h ?? 0,
-            LastPrice = itemHistory?.Pricelatestsell ?? 0,
+            LastPrice = itemHistory?.PriceLatestSell ?? 0,
         };
     }
     internal static IEnumerable<SteamItemHistoryResponseEntry> ToResponse(IEnumerable<SteamItemHistory> itemHistory)

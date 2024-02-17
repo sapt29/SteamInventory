@@ -3,7 +3,7 @@ const generateChartData = (itemsHistory) => {
   return itemsHistory?.map((data) => {
     return {
       x: new Date(data.datePrice).getTime(),
-      y: data.lastPrice,
+      y: data.average,
       itemsSold: data.itemsSold,
     };
   });
