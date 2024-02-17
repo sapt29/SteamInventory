@@ -35,7 +35,7 @@ public class DataBaseUpdateService : IHostedService, IDisposable
     }
     public async Task DailyUpdateDataBaseHistory()
     {
-        _logger.LogInformation("Starting Scheduled task");
+        _logger.LogInformation("Starting Scheduled task (DatabaseUpdate)");
         var itemIds = await _steamItemsRepository.GetSteamItemsIds();
         var allSteamItems = await _steamWebApi.GetAllItemsSteam();
         foreach (var item in allSteamItems)
@@ -45,7 +45,7 @@ public class DataBaseUpdateService : IHostedService, IDisposable
                 await _steamItemsRepository.AddHistoryToExistingItem(item.Id, TypeMapper.ToDomain(item));
             }
         }
-        _logger.LogInformation("Finished Scheduled task");
+        _logger.LogInformation("Finished Scheduled task (DatabaseUpdate)");
     }
 
     public Task StopAsync(CancellationToken cancellationToken)
