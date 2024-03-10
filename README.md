@@ -17,7 +17,7 @@ Backend and frontend project used to show the information about a steam profile 
 
 ## Set up project
 
-- Backend project
+### Backend project
 
 In the appsettings.json file, use your ApiKey generated from the https://www.steamwebapi.com/ site
 
@@ -27,7 +27,7 @@ Please take into account that previously you have intalled and configured MongoD
 
 Once checked all that, you only have to right click on the SteamInventory.Api project and select the option Set as startup project. Finally you can click the run button with the TestApi configuraion selected. If everything goes as expected, the service will be running locally at https://localhost:7155. You can change the port or the address on the launchSettings.json file.
 
-- Frontend project
+### Frontend project
 
 Open a terminal an follow the steps:
 
